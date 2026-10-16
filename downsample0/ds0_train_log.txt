@@ -1,0 +1,126 @@
+Starting Flat ResNet
+Channels: 128, Blocks: 16, Downsamples: 0
+----------------------------------------
+Epoch 001/100 | Val PSNR: 24.33 dB
+Epoch 002/100 | Val PSNR: 24.50 dB
+Epoch 003/100 | Val PSNR: 24.59 dB
+Epoch 004/100 | Val PSNR: 24.62 dB
+Epoch 005/100 | Val PSNR: 24.63 dB
+    --> PCA Breakdown: PCA 15: 21.63 dB | PCA 20: 22.81 dB | PCA 30: 24.75 dB | PCA 40: 26.32 dB | PCA 50: 27.63 dB
+Epoch 006/100 | Val PSNR: 24.61 dB
+Epoch 007/100 | Val PSNR: 24.81 dB
+Epoch 008/100 | Val PSNR: 24.73 dB
+Epoch 009/100 | Val PSNR: 24.62 dB
+Epoch 010/100 | Val PSNR: 24.68 dB
+    --> PCA Breakdown: PCA 15: 21.67 dB | PCA 20: 22.86 dB | PCA 30: 24.79 dB | PCA 40: 26.37 dB | PCA 50: 27.72 dB
+Epoch 011/100 | Val PSNR: 24.72 dB
+Epoch 012/100 | Val PSNR: 24.63 dB
+Epoch 013/100 | Val PSNR: 24.92 dB
+Epoch 014/100 | Val PSNR: 24.84 dB
+Epoch 015/100 | Val PSNR: 24.74 dB
+    --> PCA Breakdown: PCA 15: 21.76 dB | PCA 20: 22.95 dB | PCA 30: 24.87 dB | PCA 40: 26.42 dB | PCA 50: 27.72 dB
+Epoch 016/100 | Val PSNR: 24.89 dB
+Epoch 017/100 | Val PSNR: 24.78 dB
+Epoch 018/100 | Val PSNR: 24.80 dB
+Epoch 019/100 | Val PSNR: 24.88 dB
+Epoch 020/100 | Val PSNR: 24.86 dB
+    --> PCA Breakdown: PCA 15: 21.84 dB | PCA 20: 23.05 dB | PCA 30: 24.98 dB | PCA 40: 26.55 dB | PCA 50: 27.89 dB
+Epoch 021/100 | Val PSNR: 24.77 dB
+Epoch 022/100 | Val PSNR: 24.76 dB
+Epoch 023/100 | Val PSNR: 24.88 dB
+Epoch 024/100 | Val PSNR: 24.82 dB
+Epoch 025/100 | Val PSNR: 25.01 dB
+    --> PCA Breakdown: PCA 15: 22.01 dB | PCA 20: 23.23 dB | PCA 30: 25.14 dB | PCA 40: 26.67 dB | PCA 50: 27.97 dB
+Epoch 026/100 | Val PSNR: 24.94 dB
+Epoch 027/100 | Val PSNR: 24.87 dB
+Epoch 028/100 | Val PSNR: 24.89 dB
+Epoch 029/100 | Val PSNR: 24.81 dB
+Epoch 030/100 | Val PSNR: 24.92 dB
+    --> PCA Breakdown: PCA 15: 21.95 dB | PCA 20: 23.15 dB | PCA 30: 25.05 dB | PCA 40: 26.59 dB | PCA 50: 27.88 dB
+Epoch 031/100 | Val PSNR: 24.92 dB
+Epoch 032/100 | Val PSNR: 24.84 dB
+Epoch 033/100 | Val PSNR: 24.87 dB
+Epoch 034/100 | Val PSNR: 24.98 dB
+Epoch 035/100 | Val PSNR: 24.81 dB
+    --> PCA Breakdown: PCA 15: 21.83 dB | PCA 20: 23.01 dB | PCA 30: 24.92 dB | PCA 40: 26.49 dB | PCA 50: 27.82 dB
+Epoch 036/100 | Val PSNR: 24.86 dB
+Epoch 037/100 | Val PSNR: 24.82 dB
+Epoch 038/100 | Val PSNR: 24.96 dB
+Epoch 039/100 | Val PSNR: 24.95 dB
+Epoch 040/100 | Val PSNR: 24.82 dB
+    --> PCA Breakdown: PCA 15: 21.91 dB | PCA 20: 23.07 dB | PCA 30: 24.92 dB | PCA 40: 26.45 dB | PCA 50: 27.75 dB
+Epoch 041/100 | Val PSNR: 24.91 dB
+Epoch 042/100 | Val PSNR: 24.93 dB
+Epoch 043/100 | Val PSNR: 25.01 dB
+Epoch 044/100 | Val PSNR: 24.98 dB
+Epoch 045/100 | Val PSNR: 24.86 dB
+    --> PCA Breakdown: PCA 15: 21.93 dB | PCA 20: 23.10 dB | PCA 30: 24.98 dB | PCA 40: 26.51 dB | PCA 50: 27.81 dB
+Epoch 046/100 | Val PSNR: 25.02 dB
+Epoch 047/100 | Val PSNR: 25.00 dB
+Epoch 048/100 | Val PSNR: 24.98 dB
+Epoch 049/100 | Val PSNR: 24.97 dB
+Epoch 050/100 | Val PSNR: 24.96 dB
+    --> PCA Breakdown: PCA 15: 21.99 dB | PCA 20: 23.20 dB | PCA 30: 25.10 dB | PCA 40: 26.62 dB | PCA 50: 27.90 dB
+Epoch 051/100 | Val PSNR: 24.95 dB
+Epoch 052/100 | Val PSNR: 24.96 dB
+Epoch 053/100 | Val PSNR: 24.87 dB
+Epoch 054/100 | Val PSNR: 24.86 dB
+Epoch 055/100 | Val PSNR: 24.97 dB
+    --> PCA Breakdown: PCA 15: 21.97 dB | PCA 20: 23.18 dB | PCA 30: 25.11 dB | PCA 40: 26.65 dB | PCA 50: 27.93 dB
+Epoch 056/100 | Val PSNR: 25.03 dB
+Epoch 057/100 | Val PSNR: 24.82 dB
+Epoch 058/100 | Val PSNR: 24.95 dB
+Epoch 059/100 | Val PSNR: 24.98 dB
+Epoch 060/100 | Val PSNR: 25.03 dB
+    --> PCA Breakdown: PCA 15: 22.02 dB | PCA 20: 23.23 dB | PCA 30: 25.16 dB | PCA 40: 26.71 dB | PCA 50: 28.03 dB
+Epoch 061/100 | Val PSNR: 25.01 dB
+Epoch 062/100 | Val PSNR: 24.96 dB
+Epoch 063/100 | Val PSNR: 25.01 dB
+Epoch 064/100 | Val PSNR: 25.02 dB
+Epoch 065/100 | Val PSNR: 25.03 dB
+    --> PCA Breakdown: PCA 15: 22.01 dB | PCA 20: 23.22 dB | PCA 30: 25.16 dB | PCA 40: 26.72 dB | PCA 50: 28.04 dB
+Epoch 066/100 | Val PSNR: 24.98 dB
+Epoch 067/100 | Val PSNR: 25.01 dB
+Epoch 068/100 | Val PSNR: 25.00 dB
+Epoch 069/100 | Val PSNR: 25.00 dB
+Epoch 070/100 | Val PSNR: 24.99 dB
+    --> PCA Breakdown: PCA 15: 21.99 dB | PCA 20: 23.19 dB | PCA 30: 25.11 dB | PCA 40: 26.67 dB | PCA 50: 27.98 dB
+Epoch 071/100 | Val PSNR: 25.00 dB
+Epoch 072/100 | Val PSNR: 25.01 dB
+Epoch 073/100 | Val PSNR: 24.99 dB
+Epoch 074/100 | Val PSNR: 24.98 dB
+Epoch 075/100 | Val PSNR: 24.94 dB
+    --> PCA Breakdown: PCA 15: 21.96 dB | PCA 20: 23.15 dB | PCA 30: 25.07 dB | PCA 40: 26.61 dB | PCA 50: 27.92 dB
+Epoch 076/100 | Val PSNR: 24.94 dB
+Epoch 077/100 | Val PSNR: 25.05 dB
+Epoch 078/100 | Val PSNR: 25.02 dB
+Epoch 079/100 | Val PSNR: 25.06 dB
+Epoch 080/100 | Val PSNR: 24.96 dB
+    --> PCA Breakdown: PCA 15: 21.95 dB | PCA 20: 23.15 dB | PCA 30: 25.08 dB | PCA 40: 26.64 dB | PCA 50: 27.95 dB
+Epoch 081/100 | Val PSNR: 25.02 dB
+Epoch 082/100 | Val PSNR: 25.01 dB
+Epoch 083/100 | Val PSNR: 25.00 dB
+Epoch 084/100 | Val PSNR: 25.02 dB
+Epoch 085/100 | Val PSNR: 25.00 dB
+    --> PCA Breakdown: PCA 15: 21.99 dB | PCA 20: 23.20 dB | PCA 30: 25.13 dB | PCA 40: 26.68 dB | PCA 50: 27.99 dB
+Epoch 086/100 | Val PSNR: 25.00 dB
+Epoch 087/100 | Val PSNR: 25.00 dB
+Epoch 088/100 | Val PSNR: 25.01 dB
+Epoch 089/100 | Val PSNR: 25.02 dB
+Epoch 090/100 | Val PSNR: 25.03 dB
+    --> PCA Breakdown: PCA 15: 22.02 dB | PCA 20: 23.23 dB | PCA 30: 25.16 dB | PCA 40: 26.71 dB | PCA 50: 28.02 dB
+Epoch 091/100 | Val PSNR: 25.01 dB
+Epoch 092/100 | Val PSNR: 25.00 dB
+Epoch 093/100 | Val PSNR: 25.02 dB
+Epoch 094/100 | Val PSNR: 25.03 dB
+Epoch 095/100 | Val PSNR: 25.02 dB
+    --> PCA Breakdown: PCA 15: 22.01 dB | PCA 20: 23.22 dB | PCA 30: 25.15 dB | PCA 40: 26.71 dB | PCA 50: 28.02 dB
+Epoch 096/100 | Val PSNR: 25.02 dB
+Epoch 097/100 | Val PSNR: 25.01 dB
+Epoch 098/100 | Val PSNR: 25.02 dB
+Epoch 099/100 | Val PSNR: 25.03 dB
+Epoch 100/100 | Val PSNR: 25.01 dB
+    --> PCA Breakdown: PCA 15: 22.01 dB | PCA 20: 23.22 dB | PCA 30: 25.15 dB | PCA 40: 26.70 dB | PCA 50: 28.00 dB
+----------------------------------------
+
+[Flat ResNet] Complete. Best PSNR: 25.06 dB | Total Time: 685.5 min
